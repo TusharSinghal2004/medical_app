@@ -63,12 +63,11 @@ Contributing
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 
-![Splash Screen](https://github.com/user-attachments/assets/3803b185-90f1-4d24-9464-a7397f6c3223)
-![Main page](https://github.com/user-attachments/assets/f5c62770-8930-4726-8fd6-be209d1fe85e)
-![Results page](https://github.com/user-attachments/assets/1347df4f-a3a5-4345-aa39-7b3a436186df)
-![flagging mechanism](https://github.com/user-attachments/assets/0a328ab2-8229-4219-8038-f20e2d57ba28)
-![Results page 2](https://github.com/user-attachments/assets/79662cf9-9322-4012-873c-1039b2e55e14)
-
+<img src="https://github.com/user-attachments/assets/3803b185-90f1-4d24-9464-a7397f6c3223" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/f5c62770-8930-4726-8fd6-be209d1fe85e" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/1347df4f-a3a5-4345-aa39-7b3a436186df" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/0a328ab2-8229-4219-8038-f20e2d57ba28" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/79662cf9-9322-4012-873c-1039b2e55e14" width="300" height="200">
 
 
 
